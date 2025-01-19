@@ -5,6 +5,6 @@ optuna
 streamlit
 xgboost
 markupsafe
-zenml
+zenml == 0.35.1
 scikit-learn
 mlflow
