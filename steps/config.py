@@ -1,4 +1,4 @@
-from zenml.steps import BaseParameters
+from zenml.steps import StepParameters
 
 
 class ModelNameConfig(BaseParameters):
